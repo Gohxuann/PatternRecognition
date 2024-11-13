@@ -1,46 +1,46 @@
 experiment,split,model,MSE,R2
-Retain Selected Features,60:40:00,Baseline Linear Regression,42.7164034,0.726944377
-Retain Selected Features,60:40:00,Lasso Regression,42.73002696,0.726857291
-Retain Selected Features,60:40:00,Ridge Regression,42.71432772,0.726957645
-All Features,60:40:00,Baseline Linear Regression,25.06685797,0.839765383
-All Features,60:40:00,Lasso Regression,24.92820206,0.840651712
-All Features,60:40:00,Ridge Regression,24.93860703,0.8405852
-"No Scaling, All Features",60:40:00,Baseline Linear Regression,25.06685797,0.839765383
-"No Scaling, All Features",60:40:00,Lasso Regression,24.92820206,0.840651712
-"No Scaling, All Features",60:40:00,Ridge Regression,24.93860703,0.8405852
-"No Scaling, Selected Features",60:40:00,Baseline Linear Regression,42.7164034,0.726944377
-"No Scaling, Selected Features",60:40:00,Lasso Regression,42.73002696,0.726857291
-"No Scaling, Selected Features",60:40:00,Ridge Regression,42.71432772,0.726957645
-"StandardScaler, All Features",60:40:00,Baseline Linear Regression,25.06685797,0.839765383
-"StandardScaler, All Features",60:40:00,Lasso Regression,24.92818437,0.840651825
-"StandardScaler, All Features",60:40:00,Ridge Regression,24.9423596,0.840561213
-Retain Selected Features,80:20:00,Baseline Linear Regression,45.28440643,0.70983604
-Retain Selected Features,80:20:00,Lasso Regression,45.16700087,0.710588326
-Retain Selected Features,80:20:00,Ridge Regression,45.2777462,0.709878716
-All Features,80:20:00,Baseline Linear Regression,28.81266087,0.81538025
-All Features,80:20:00,Lasso Regression,28.43435729,0.817804265
-All Features,80:20:00,Ridge Regression,28.57520188,0.81690179
-"No Scaling, All Features",80:20:00,Baseline Linear Regression,28.81266087,0.81538025
-"No Scaling, All Features",80:20:00,Lasso Regression,28.43435729,0.817804265
-"No Scaling, All Features",80:20:00,Ridge Regression,28.57520188,0.81690179
-"No Scaling, Selected Features",80:20:00,Baseline Linear Regression,45.28440643,0.70983604
-"No Scaling, Selected Features",80:20:00,Lasso Regression,45.16700087,0.710588326
-"No Scaling, Selected Features",80:20:00,Ridge Regression,45.2777462,0.709878716
-"StandardScaler, All Features",80:20:00,Baseline Linear Regression,28.81266087,0.81538025
-"StandardScaler, All Features",80:20:00,Lasso Regression,28.5754091,0.816900462
-"StandardScaler, All Features",80:20:00,Ridge Regression,28.63709765,0.816505187
-Retain Selected Features,90:10:00,Baseline Linear Regression,48.32076659,0.723481165
-Retain Selected Features,90:10:00,Lasso Regression,48.22836286,0.724009951
-Retain Selected Features,90:10:00,Ridge Regression,48.26118106,0.723822147
-All Features,90:10:00,Baseline Linear Regression,28.05631788,0.839445835
-All Features,90:10:00,Lasso Regression,27.50118898,0.842622597
-All Features,90:10:00,Ridge Regression,28.03930187,0.83954321
-"No Scaling, All Features",90:10:00,Baseline Linear Regression,28.05631788,0.839445835
-"No Scaling, All Features",90:10:00,Lasso Regression,27.50118898,0.842622597
-"No Scaling, All Features",90:10:00,Ridge Regression,28.03930187,0.83954321
-"No Scaling, Selected Features",90:10:00,Baseline Linear Regression,48.32076659,0.723481165
-"No Scaling, Selected Features",90:10:00,Lasso Regression,48.22836286,0.724009951
-"No Scaling, Selected Features",90:10:00,Ridge Regression,48.26118106,0.723822147
-"StandardScaler, All Features",90:10:00,Baseline Linear Regression,28.05631788,0.839445835
-"StandardScaler, All Features",90:10:00,Lasso Regression,27.50118898,0.842622597
-"StandardScaler, All Features",90:10:00,Ridge Regression,28.07695539,0.839327735
+Retain Selected Features,60:40,Baseline Linear Regression,42.71640339645215,0.7269443766449302
+Retain Selected Features,60:40,Lasso Regression,42.730026961527614,0.7268572908708898
+Retain Selected Features,60:40,Ridge Regression,42.71432771931417,0.7269576449744178
+All Features,60:40,Baseline Linear Regression,25.06685796754209,0.8397653832333484
+All Features,60:40,Lasso Regression,24.928202057133653,0.8406517119744892
+All Features,60:40,Ridge Regression,24.938607025195374,0.8405852004048302
+"No Scaling, All Features",60:40,Baseline Linear Regression,25.06685796754209,0.8397653832333484
+"No Scaling, All Features",60:40,Lasso Regression,24.928202057133653,0.8406517119744892
+"No Scaling, All Features",60:40,Ridge Regression,24.938607025195374,0.8405852004048302
+"No Scaling, Selected Features",60:40,Baseline Linear Regression,42.71640339645215,0.7269443766449302
+"No Scaling, Selected Features",60:40,Lasso Regression,42.730026961527614,0.7268572908708898
+"No Scaling, Selected Features",60:40,Ridge Regression,42.71432771931417,0.7269576449744178
+"StandardScaler, All Features",60:40,Baseline Linear Regression,25.06685796754209,0.8397653832333484
+"StandardScaler, All Features",60:40,Lasso Regression,24.928184365439048,0.8406518250649255
+"StandardScaler, All Features",60:40,Ridge Regression,24.942359601282806,0.8405612128515423
+Retain Selected Features,80:20,Baseline Linear Regression,45.284406427762335,0.709836039640726
+Retain Selected Features,80:20,Lasso Regression,45.16700086828223,0.7105883264607218
+Retain Selected Features,80:20,Ridge Regression,45.277746199191434,0.7098787156621531
+All Features,80:20,Baseline Linear Regression,28.812660874909174,0.8153802501245356
+All Features,80:20,Lasso Regression,28.434357293846237,0.8178042647900348
+All Features,80:20,Ridge Regression,28.575201882307955,0.8169017902561482
+"No Scaling, All Features",80:20,Baseline Linear Regression,28.812660874909174,0.8153802501245356
+"No Scaling, All Features",80:20,Lasso Regression,28.434357293846237,0.8178042647900348
+"No Scaling, All Features",80:20,Ridge Regression,28.575201882307955,0.8169017902561482
+"No Scaling, Selected Features",80:20,Baseline Linear Regression,45.284406427762335,0.709836039640726
+"No Scaling, Selected Features",80:20,Lasso Regression,45.16700086828223,0.7105883264607218
+"No Scaling, Selected Features",80:20,Ridge Regression,45.277746199191434,0.7098787156621531
+"StandardScaler, All Features",80:20,Baseline Linear Regression,28.81266087490919,0.8153802501245355
+"StandardScaler, All Features",80:20,Lasso Regression,28.575409101981347,0.8169004624772097
+"StandardScaler, All Features",80:20,Ridge Regression,28.637097652011967,0.8165051874720209
+Retain Selected Features,90:10,Baseline Linear Regression,48.32076659049662,0.7234811648117263
+Retain Selected Features,90:10,Lasso Regression,48.22836285995368,0.7240099513716194
+Retain Selected Features,90:10,Ridge Regression,48.26118105641804,0.7238221470361416
+All Features,90:10,Baseline Linear Regression,28.0563178813187,0.8394458348320163
+All Features,90:10,Lasso Regression,27.50118898077545,0.8426225972840374
+All Features,90:10,Ridge Regression,28.03930186547461,0.8395432101265895
+"No Scaling, All Features",90:10,Baseline Linear Regression,28.0563178813187,0.8394458348320163
+"No Scaling, All Features",90:10,Lasso Regression,27.50118898077545,0.8426225972840374
+"No Scaling, All Features",90:10,Ridge Regression,28.03930186547461,0.8395432101265895
+"No Scaling, Selected Features",90:10,Baseline Linear Regression,48.32076659049662,0.7234811648117263
+"No Scaling, Selected Features",90:10,Lasso Regression,48.22836285995368,0.7240099513716194
+"No Scaling, Selected Features",90:10,Ridge Regression,48.26118105641804,0.7238221470361416
+"StandardScaler, All Features",90:10,Baseline Linear Regression,28.056317881318705,0.8394458348320163
+"StandardScaler, All Features",90:10,Lasso Regression,27.501188980775463,0.8426225972840373
+"StandardScaler, All Features",90:10,Ridge Regression,28.07695538629857,0.8393277353224081
